@@ -56,7 +56,11 @@ st.json(
 
 st.image('unnamed.jpg')
 
+st.code('''
 
+print("hello world")
+
+''')
 
 st.sidebar.title('my sidebar')
 
